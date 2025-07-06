@@ -2,6 +2,13 @@
 
 Este projeto é a prova de que você dominou a **validação de formulários com JavaScript** e está pronto para criar experiências de usuário incríveis! Nele, implementamos a validação completa de um formulário de cadastro de usuário para o Gugubank, garantindo que os dados inseridos sejam precisos e confiáveis.
 
+## Veja o GuguBank em Ação\! 👀
+
+![Captura de tela da aplicação da GuguBank](img/GuguBank.png/)
+
+-----
+
+
 ## 🚀 Funcionalidades Implementadas:
 
 Confira o que este projeto incrível oferece:
